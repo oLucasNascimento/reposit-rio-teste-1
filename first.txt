@@ -1,4 +1,4 @@
-Primeiro teste na plataforma.
+﻿Primeiro teste na plataforma.
 
 Teste e alteração feita.
 
@@ -7,3 +7,8 @@ Tudo correto.
 Nova Linha adicionada no github
 
 testes sendo feitos no gitbash
+
+
+Call com grupo de Pesquisa;
+alguns detalhes acertados;
+protótipo feito
