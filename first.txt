@@ -3,3 +3,7 @@ Primeiro teste na plataforma.
 Teste e alteração feita.
 
 Tudo correto.
+
+Nova Linha adicionada no github
+
+testes sendo feitos no gitbash
